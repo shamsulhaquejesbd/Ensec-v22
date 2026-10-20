@@ -85,13 +85,9 @@ export const WarehouseModule: React.FC = () => {
             <h1 className="text-xl font-bold text-slate-900 dark:text-white">
               Multi-Warehouse Hubs & Stock Transfers
             </h1>
-            <span className="px-2.5 py-0.5 rounded-full text-xs font-bold bg-indigo-100 text-indigo-800 dark:bg-indigo-950 dark:text-indigo-300">
-              Kushtia Factory ↔ Dhaka Hub 1 & 2
-            </span>
+            
           </div>
-          <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-            Finished battery distribution logistics: Transfer Requests, In-Transit dispatches, Multi-stage receiving, Stock Ledgers, and Physical Damage reconciliation.
-          </p>
+          
         </div>
 
         <div className="flex items-center gap-2">
